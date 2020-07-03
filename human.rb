@@ -15,11 +15,11 @@ class Human #The first letter of the class is Uppercase
   end #end of initialize
 
   def run #methods are defined by using the keyword "def" and a simple name without spaces
-    return "Hi, I am #{@name} and I am running fast!!"
+    return "Hi, I am #{@name} and I am running slow!!"
   end
 
   def walk
-    return "Walking"
+    return "Running"
   end
 
   def get_age
