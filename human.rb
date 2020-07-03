@@ -1,6 +1,6 @@
 #cornel changes line 1
 #cornel changes line 2
-class Human #The first letter of the class is Uppercase
+class Humanoid #The first letter of the class is Uppercase
 
   #attribute accessor allows access to the objects attributes
   #by using the properties in the class "name" and "age"
