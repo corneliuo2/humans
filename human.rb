@@ -1,7 +1,5 @@
-#cornel changes line 1
-#cornel changes line 2
-class Alien #The first letter of the class is Uppercase
 
+class Alien #The first letter of the class is Uppercase
   #attribute accessor allows access to the objects attributes
   #by using the properties in the class "name" and "age"
   attr_accessor :name, :bd_year
